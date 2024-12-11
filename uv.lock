@@ -1181,7 +1181,7 @@ wheels = [
 
 [[package]]
 name = "mqt-qecc"
-version = "1.8.3.dev19+gc14eea9"
+version = "1.8.2.dev116+g610d2e9.d20241125"
 source = { editable = "." }
 dependencies = [
     { name = "bposd" },
